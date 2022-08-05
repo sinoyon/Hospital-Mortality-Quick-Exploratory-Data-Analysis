@@ -13,3 +13,4 @@ The MIMIC-III database (version 1.4, 2016) is a publicly available critical care
 9. How many patients Death in the hospital they are with Hyperlipemia ?
 10. How many patients Death in the hospital they are with Anemia?
 
+
