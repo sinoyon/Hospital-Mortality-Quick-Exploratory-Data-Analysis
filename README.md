@@ -14,6 +14,7 @@ The MIMIC-III database (version 1.4, 2016) is a publicly available critical care
 10. How many patients Death in the hospital they are with Anemia?
 
 
+
 </br></br>
 👉 If you find this project useful, please ⭐ this repository 😆!</br></br>
 👉 Check out my work on GitHub using similar data sets with SAS studio <a href="https://github.com/sinoyon?tab=repositories">Here. </a>
